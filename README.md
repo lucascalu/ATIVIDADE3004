@@ -7,3 +7,8 @@
 
   
 </pre>
+
+<pre>
+
+  OBSERVAÇÃO: INSTALAR Mysql ou Mariadb-server
+</pre>
